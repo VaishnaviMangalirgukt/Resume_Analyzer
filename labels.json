@@ -1,0 +1,50 @@
+[
+    {
+        "job_title": "Data Scientist",
+        "label": "Technology"
+    },
+    {
+        "job_title": "AI Engineer",
+        "label": "Technology"
+    },
+    {
+        "job_title": "Software Engineer",
+        "label": "Technology"
+    },
+    {
+        "job_title": "Machine Learning Engineer",
+        "label": "Technology"
+    },
+    {
+        "job_title": "Data Analyst",
+        "label": "Technology"
+    },
+    {
+        "job_title": "Product Manager",
+        "label": "Business"
+    },
+    {
+        "job_title": "Marketing Manager",
+        "label": "Business"
+    },
+    {
+        "job_title": "Sales Manager",
+        "label": "Business"
+    },
+    {
+        "job_title": "Human Resources Manager",
+        "label": "Business"
+    },
+    {
+        "job_title": "UI/UX Designer",
+        "label": "Design"
+    },
+    {
+        "job_title": "Graphic Designer",
+        "label": "Design"
+    },
+    {
+        "job_title": "Web Designer",
+        "label": "Design"
+    }
+]
